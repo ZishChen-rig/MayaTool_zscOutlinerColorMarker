@@ -4,7 +4,7 @@
 Practice maya tool for mark color on outliner objects
 
 ### **Minimum maya version**
-2016
+2016+
 
 ### **User Interface**
 * Set Color | Hex input button

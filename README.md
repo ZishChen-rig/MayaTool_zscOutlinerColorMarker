@@ -4,7 +4,7 @@
 Practice maya tool for mark color on outliner objects
 
 ### **Minimum maya version**
-2016+
+* 2016+
 
 ### **User Interface**
 * Set Color | Hex input button
@@ -18,8 +18,8 @@ Practice maya tool for mark color on outliner objects
 * Mark color to outliner | Remove Marked color
 
 ### **Install**
-Place zscOutlinerColorMarker sub folder to your local path below or your maya python environment path
-[Documents]/maya/[Version]/prefs/scripts
+* Put zscOutlinerColorMarker folder to your local path below or your maya python environment path
+`[Documents]/maya/[Version]/prefs/scripts`
 
 ### **Call UI Function**
 ```py
@@ -29,8 +29,8 @@ zscOutlinerColorMarker.uim.ocm()
 ```
 
 ### **Extra python module**
-None
+* None
 
 ### **Note**
-This tool just for outliner witch have outlinerColor attribute.
+* This tool just for outliner witch have outlinerColor attribute.
 

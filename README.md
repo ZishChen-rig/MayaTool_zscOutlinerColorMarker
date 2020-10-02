@@ -13,7 +13,7 @@ Practice maya tool for mark color on outliner objects
 * Mark color to outliner | Remove Marked color
 
 ### **Call UI Function**
-```
+```py
 import zscOutlinerColorMarker.uim
 reload(zscOutlinerColorMarker.uim)
 zscOutlinerColorMarker.uim.ocm() 

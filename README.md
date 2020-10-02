@@ -14,6 +14,10 @@ Practice maya tool for mark color on outliner objects
 * Scan outliner color to record
 * Mark color to outliner | Remove Marked color
 
+### **Install**
+Place zscOutlinerColorMarker sub folder to your local path below or your maya python environment path
+[Documents]\maya\[Version]\prefs\scripts
+
 ### **Call UI Function**
 ```py
 import zscOutlinerColorMarker.uim

@@ -12,9 +12,9 @@ Practice maya tool for mark color on outliner objects
 * Add | Remove | Clear | Save | Load Color record area
 * Color record area button operation mode
 * Scan outliner color to record :
- * Get color
- * Set color
- * Select the color marked color
+  * Get color
+  * Set color
+  * Select the color marked color
 * Mark color to outliner | Remove Marked color
 
 ### **Install**

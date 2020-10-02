@@ -1,2 +1,6 @@
-# MayaPythonTool
-Practice maya tool
+# zscOutlinerColorMarker
+Practice maya tool for mark color on outliner objects
+
+
+
+

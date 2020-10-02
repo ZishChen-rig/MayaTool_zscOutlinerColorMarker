@@ -7,7 +7,7 @@ Practice maya tool for mark color on outliner objects
 ### **User Interface**
 Set Color / Hex input button
 Color record area
-Add / Remove / Clear / Save / Load Color record area
+Add | Remove / Clear / Save / Load Color record area
 Color record area button operation mode
 Scan outliner color to record
 Mark color to outliner / Remove Marked color

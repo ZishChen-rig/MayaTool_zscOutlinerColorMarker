@@ -31,6 +31,6 @@ zscOutlinerColorMarker.uim.ocm()
 ### **Extra python module**
 * None
 
-### **Note**
+### **Notice**
 * This tool just for outliner witch have outlinerColor attribute.
 
